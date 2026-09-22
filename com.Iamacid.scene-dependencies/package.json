@@ -1,0 +1,7 @@
+{
+  "name": "com.iamacid.scene-dependencies",
+  "version": "0.1.0",
+  "displayName": "Scene Dependencies",
+  "description": "Scene dependency authoring and runtime loading for Unity.",
+  "unity": "2022.3"
+}
